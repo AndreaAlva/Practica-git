@@ -1,2 +1,2 @@
-"My file edition two"
+"My other edition"
 
